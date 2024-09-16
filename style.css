@@ -81,4 +81,5 @@ table {
 
 table th, table td {
     border: 1px solid #ddd; /* Borda leve */
-    padding
+    padding: 5px
+}
